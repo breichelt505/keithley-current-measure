@@ -1,0 +1,11 @@
+name: keithley
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - astropy
+  - h5py
+  - matplotlib
+  - pandas
+  - pyvisa
